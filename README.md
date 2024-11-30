@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python , C++ , Java**
 
-- 💬 Ask me about **HTML , CSS , JS**
+- 👾 I'm interested in Cyber Security **
 
 - 📫 How to reach me **surajgoswami1469@gmail.com**
 
