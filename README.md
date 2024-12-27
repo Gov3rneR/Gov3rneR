@@ -1,20 +1,17 @@
-<h3 align="center">What are the rules here?<br>
-  We must be engaged, to engage<br>
-  We can do what they do <br>
-  if they get out<br> You get out</h3>
+<h3 align="center">I don’t follow; I lead......!</h3><br>
 <img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gov3rner&label=Profile%20views&color=0e75b6&style=flat" alt="gov3rner" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gov3rner&label=Profile%20views&color=0e75b6&style=flat" alt="gov3rner"/> </p>
 
 <p align="left"> <a href="https://twitter.com/gov3rner" target="blank"><img src="https://img.shields.io/twitter/follow/gov3rner?logo=twitter&style=for-the-badge" alt="gov3rner" /></a> </p>
 
-- 🌱 I’m currently learning **Python , C++ , Java**
+- 🌱 I’m currently learning **Python , Bash Scripting**
 
-- 👾 I'm interested in **Cyber Security**
+- 👾 **Innovating in cyber defense**
 
 - 📫 How to reach me **surajgoswami1469@gmail.com**
 
-- ⚡ Fun fact **Tea is love ❣️**
+- ⚡ Fun fact **Success demands relentless effort...!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
