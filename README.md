@@ -1,5 +1,5 @@
 <h3 align="center">Bravo-6 <br> Going Dark..!</h3><br>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ">
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hhcGF5N3VjbDNpZDdqdGppa2d6ZGx1NnlzNGJ1anBwazM4dDhxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gov3rner&label=Profile%20views&color=0e75b6&style=flat" alt="gov3rner"/> </p>
 
