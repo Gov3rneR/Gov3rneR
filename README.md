@@ -1,29 +1,93 @@
-<h3 align="center">Bravo-6 <br> Going Dark..!</h3><br>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hhcGF5N3VjbDNpZDdqdGppa2d6ZGx1NnlzNGJ1anBwazM4dDhxayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+<h1 align="center">Hey there 👋 I'm Gov3rneR</h1>
+<h3 align="center">Security Researcher | Python Developer | CTF Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gov3rner&label=Profile%20views&color=0e75b6&style=flat" alt="gov3rner"/> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/gov3rner" target="blank"><img src="https://img.shields.io/twitter/follow/gov3rner?logo=twitter&style=for-the-badge" alt="gov3rner" /></a> </p>
-
-- 🌱 I’m currently learning **Python , Bash Scripting**
-
-- 👾 **Innovating in cyber defense**
-
-- 📫 How to reach me **surajgoswami1469@gmail.com**
-
-- ⚡ Fun fact **Success demands relentless effort...!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.twitter.com/gov3rner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gov3rner" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/surajgoswami1469/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suraj goswami" height="30" width="40" /></a>
-<a href="https://discord.gg/K!N#5980" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="K!N#5980" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Security+Researcher;Python+%7C+Flask+Developer;Breaking+Things+to+Fix+Them;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gov3rner&show_icons=true&locale=en" alt="gov3rner" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gov3rner&" alt="gov3rner" /></p>
+```python
+class Gov3rneR:
+    Name        = "Suraj"
+    Role        = "Security Researcher"
+    Languages   = ["Python", "HTML5", "CSS3"]
+    Frameworks  = ["Flask"]
+    Interests   = ["Penetration Testing", "OSINT", "Digital Forensics", "Web Security"]
+    Tools       = ["Wireshark", "Burp Suite", "Nmap", "Gobuster", "Autopsy", "theHarvester"]
+    Motto       = "Break it. Understand it. Fix it."
+```
 
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+**Security Tools**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+## 🔍 What I Do
+
+- 🔐 **Web Application Security** — finding vulnerabilities before the bad guys do
+- 🌐 **OSINT & Reconnaissance** — theHarvester, Nmap, Gobuster for information gathering
+- 🧪 **Network Traffic Analysis** — deep packet inspection with Wireshark
+- 🖥️ **Digital Forensics** — disk & artifact analysis using Autopsy
+- 🕷️ **Penetration Testing** — full-cycle testing from recon to reporting
+- 🐍 **Tool Development** — building custom security scripts and Flask-based dashboards
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gov3rneR&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gov3rneR&theme=chartreuse-dark&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gov3rneR&layout=compact&theme=chartreuse-dark&hide_border=true" width="40%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Gov3rneR">
+    <img src="https://img.shields.io/badge/GitHub-Gov3rneR-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <!-- Add your LinkedIn, Twitter, or TryHackMe profile below -->
+  <!-- <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> -->
+  <!-- <a href="https://tryhackme.com/p/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a> -->
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gov3rneR&label=Profile+Views&color=00ff41&style=flat" alt="Gov3rneR profile views" />
+</p>
+
+<p align="center"><i>"The quieter you become, the more you are able to hear." — Kali Linux</i></p>
