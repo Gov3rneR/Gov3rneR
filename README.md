@@ -1,10 +1,9 @@
 <h1 align="center">Hey there 👋 I'm Gov3rneR</h1>
-<h3 align="center">Security Researcher</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Security+Researcher;Breaking+Things+to+Fix+Them;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Security+Researcher;Breaking+Things+to+Fix+Them;Always+Learning%2C+Always+Hacking;" alt="Typing SVG" />
 </p>
 
 ---
@@ -47,7 +46,6 @@ class Gov3rneR:
 - 🧪 **Network Traffic Analysis** — deep packet inspection with Wireshark
 - 🖥️ **Digital Forensics** — disk & artifact analysis using Autopsy
 - 🕷️ **Penetration Testing** — full-cycle testing from recon to reporting
-- 🐍 **Tool Development** — building custom security scripts and Flask-based dashboards
 
 ---
 
