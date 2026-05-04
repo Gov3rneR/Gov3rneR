@@ -1,10 +1,10 @@
 <h1 align="center">Hey there 👋 I'm Gov3rneR</h1>
-<h3 align="center">Security Researcher | Python Developer | CTF Enthusiast</h3>
+<h3 align="center">Security Researcher</h3>
 
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Security+Researcher;Python+%7C+Flask+Developer;Breaking+Things+to+Fix+Them;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Security+Researcher;Breaking+Things+to+Fix+Them;Always+Learning%2C+Always+Hacking" alt="Typing SVG" />
 </p>
 
 ---
@@ -16,7 +16,6 @@ class Gov3rneR:
     Name        = "Suraj"
     Role        = "Security Researcher"
     Languages   = ["Python", "HTML5", "CSS3"]
-    Frameworks  = ["Flask"]
     Interests   = ["Penetration Testing", "OSINT", "Digital Forensics", "Web Security"]
     Tools       = ["Wireshark", "Burp Suite", "Nmap", "Gobuster", "Autopsy", "theHarvester"]
     Motto       = "Break it. Understand it. Fix it."
@@ -31,10 +30,6 @@ class Gov3rneR:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Security Tools**
 
